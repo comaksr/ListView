@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exemplo ListView</string>
+    <string name="action_settings">Sair</string>
+</resources>
